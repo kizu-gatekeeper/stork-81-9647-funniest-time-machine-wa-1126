@@ -8,7 +8,8 @@ How the line targets the brief: the entry must read as a warning
 label, at most 120 characters, and get the biggest laugh. It opens
 with a formal WARNING, names the classic grandfather paradox, then
 translates the consequence into the one legal threat nobody expects
-to be retroactive: child support, billed backwards through time.
+to be retroactive: child support, billed backwards through time, with
+interest accruing before you are born.
 """
 
 import os
